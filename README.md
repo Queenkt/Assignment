@@ -99,7 +99,6 @@ function validateForm() {
     alert("All fields must be filled out");
     return false;
   }
-}
 </script>
 
 </body>
