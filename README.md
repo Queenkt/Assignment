@@ -1,5 +1,4 @@
-#Assignment,
-   <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -11,7 +10,7 @@
   <p>I am a future Backend developer and a future lawyer.</p>
 
   <h2>Summary</h2>
-  <p>My goal for this diploma course is to learn and and to be able to incorporate what i have learnt to my field of study to inprove it.</p>
+  <p>My goal for this diploma course is to learn and and to be able to incorporate what i have learnt to my field of study to improve it.</p>
 
   <h2>Education</h2>
   <p>I have a WASSCE Certificate.<p>
